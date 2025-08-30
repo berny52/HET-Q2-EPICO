@@ -1,1 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Resultados y gráficos
 het_q2_results.png
+*.png
+*.jpg
+
+# Archivos temporales y de configuración
+setup_git.sh
+test_*.py
+config_*.py
